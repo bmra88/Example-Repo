@@ -1,0 +1,39 @@
+
+body
+{
+	 background-image: url("imagenes/fondo.jpg");
+ 	 padding-top: 60px; 
+}
+
+form
+{
+   float:center;
+   padding-top: 15px;
+   cursor:pointer;
+   display:block;
+   width:350px;
+   margin:auto;
+   text-align:left;
+   align-content: center;
+   position: center;
+}
+
+label
+{
+	color: white;
+}
+
+h1
+{
+	color: black;
+}
+
+#hoja
+{
+    float:center;
+	margin:auto;
+	background: rgb(128,128,64);
+	width:450px;
+	height: 530px;
+	border-radius: 10px;
+}
